@@ -1,0 +1,2 @@
+Web Site de restaurante sistema totalmente responsivel e tambem contem o modo dark para alterar a cor do site,
+sistema conta com apresentações dos pratos tipicos do brasil e sobremesas e um layout moderno.
