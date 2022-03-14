@@ -668,10 +668,14 @@ header .icons #menu-bars{
         font-size: 5rem;
     }
 }
-@media (max-width: 450px){
+@media (max-width: 450px) {
     html{
         font-size: 50%;
     }
+    header .logo{
+        font-size: 1.9rem;
+    }
+
     .dishes .box-container .box img{
         height: auto;
         width: 100%;
@@ -679,15 +683,16 @@ header .icons #menu-bars{
     .order form .inputBox .input {
         width: 100%;
     }
-    
-
-    
-}
-
-@media (max-width: 320px) {
-    header .logo {
-       
-        font-size: 1.9rem;
-       
+    .titulAbertura h2 {
+        font-size: 3.5rem;
+        letter-spacing: 0;
     }
 }
+
+@media (width: 320px)
+{
+    header .logo {
+        font-size: 1.4rem;
+    }
+}
+
